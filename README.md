@@ -7,8 +7,8 @@ Update the text above and the links below with your actual information!
 -->
 
 ### 📬 Connect with me:
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** abhradeepbasak07@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhradeep-basak-11a1a0255/)
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
 ---
@@ -16,7 +16,6 @@ Update the text above and the links below with your actual information!
 ### 💻 Technologies & Tools
 ![My Tech Stack](https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,rust,js,react,git,github,sqlite,docker&theme=dark)
 
-*(You can add or remove icons using [skillicons.dev](https://skillicons.dev/))*
 
 ---
 
