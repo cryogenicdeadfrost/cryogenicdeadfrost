@@ -1,4 +1,4 @@
-# Hi there 👋, I'm cryogenicdeadfrost!
+# Hi there 👋, I'm ABD!!
 
 I am an enthusiastic developer who loves creating solid software solutions. Here's a bit about what I do and the technologies I work with.
 
@@ -9,13 +9,9 @@ Update the text above and the links below with your actual information!
 ### 📬 Connect with me:
 - **Email:** abhradeepbasak07@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhradeep-basak-11a1a0255/)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-
 ---
 
 ### 💻 Technologies & Tools
-![My Tech Stack](https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,rust,js,react,git,github,sqlite,docker&theme=dark)
-
 
 ---
 
