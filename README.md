@@ -1,19 +1,19 @@
 # hi, i'm ABD 👋  
 
-i build systems close to the metal and models close to the math.
+i build systems close to the metal and security models
 
-mostly low-level stuff. sometimes distributed. occasionally unhinged.
+mostly low-level stuff. sometimes distributed. occasionally working.
 
 ---
 
-### 📬 connect
+### Connect
 - **email:** abhradeepbasak07@gmail.com  
 - **linkedin:** https://www.linkedin.com/in/abhradeep-basak-11a1a0255/  
 - **github:** https://github.com/cryogenicdeadfrost  
 
 ---
 
-### ⚙️ what i enjoy building
+### what i enjoy building
 
 - high-performance systems in **C / C++**
 - async & network stacks in **Rust (Tokio/Actix)**  
@@ -21,11 +21,8 @@ mostly low-level stuff. sometimes distributed. occasionally unhinged.
 - distributed pipelines (ZeroMQ, raw sockets, epoll/io_uring)
 - ML systems from scratch (yes, including training loops in C)
 - type-safe infra experiments (OCaml, Dune, Lwt/Async)
-- profiling everything with `perf`, `bcc/eBPF`, `Valgrind`
-- containerized chaos via Docker & K8s
 
-i care about:
-memory layout · concurrency · kernel boundaries · observability · throughput
+i care about nothing
 
 ---
 
@@ -42,12 +39,4 @@ memory layout · concurrency · kernel boundaries · observability · throughput
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryogenicdeadfrost&layout=compact&theme=monokai&hide_border=true&langs_count=8" />
 </div>
 
----
 
-> currently experimenting with:
-> - sparse MoE kernels  
-> - zero-copy network pipelines  
-> - zig for tiny fast binaries  
-> - rust for safe async infra  
-
-low-level systems × distributed infra × ml systems  
