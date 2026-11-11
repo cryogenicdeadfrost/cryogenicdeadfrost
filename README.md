@@ -21,13 +21,12 @@ Most of my work ends up somewhere around low-level systems, networking, distribu
 
 I’m usually more interested in making something actually work than making it sound impressive. If something looks simple, there’s probably a reason to look closer.
 
-## Stuff I Mess With
+## Stuff I Do
 
 **Systems** — C, C++, Rust, Zig, low-level tooling and the occasional questionable systems experiment.
 
-**Distributed stuff** — ZeroMQ, raw sockets, epoll, io_uring, networking and things that break when you look at them wrong.
-
-**ML systems** — Training loops, infrastructure, and building things from scratch instead of summoning another framework.
+**Distributed stuff** — ZeroMQ, raw sockets, epoll, io_uring, networking and things.
+**ML systems** — Training loops, infrastructure, and building things from scratch
 
 **Typed stuff** — OCaml, Dune, Lwt, Async.
 
@@ -48,6 +47,6 @@ I’m usually more interested in making something actually work than making it s
 
 <div align="center">
 
-*Build close to the machine. Understand the system. Measure the result.*
+*Bruh*
 
 </div>
