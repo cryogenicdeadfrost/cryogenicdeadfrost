@@ -15,20 +15,21 @@
 
 ## About
 
-I build systems close to the metal and explore the security models around them. Most of my work lives around low-level engineering, networking, distributed systems, and machine learning infrastructure.
+I build stuff close to the metal and occasionally regret it.
 
-I enjoy understanding how things work beneath the abstractions, then building implementations that are measurable, efficient, and robust.
+Most of my work ends up somewhere around low-level systems, networking, distributed systems, and ML infrastructure. I like figuring out what the nice abstractions are hiding, then messing with the layer underneath.
 
-## What I Like Building
+I’m usually more interested in making something actually work than making it sound impressive. If something looks simple, there’s probably a reason to look closer.
 
-| Area | Interests |
-|---|---|
-| **Systems programming** | High-performance software in C and C++ |
-| **Rust engineering** | Asynchronous runtimes and network stacks with Tokio and Actix |
-| **Zig** | Small, fast tools and systems-level experiments |
-| **Distributed systems** | ZeroMQ, raw sockets, epoll, and io_uring |
-| **ML systems** | Machine learning infrastructure and training loops built from scratch, including in C |
-| **Typed infrastructure** | OCaml, Dune, Lwt, and Async |
+## Stuff I Mess With
+
+**Systems** — C, C++, Rust, Zig, low-level tooling and the occasional questionable systems experiment.
+
+**Distributed stuff** — ZeroMQ, raw sockets, epoll, io_uring, networking and things that break when you look at them wrong.
+
+**ML systems** — Training loops, infrastructure, and building things from scratch instead of summoning another framework.
+
+**Typed stuff** — OCaml, Dune, Lwt, Async.
 
 ## Activity
 
@@ -40,7 +41,7 @@ I enjoy understanding how things work beneath the abstractions, then building im
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryogenicdeadfrost&layout=compact&theme=monokai&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cryogenicdeadfrost&layout=compact&theme=monokai&hide_border=true&langs_count=8" alt="Most used programming languages" />
 </div>
 
 ---
